@@ -26,15 +26,21 @@ class GUI:
 
             #create the labels
             self.label1 = Label(self.search,text= "Type your Movie Title:",justify = CENTER,font = "Helvetica 14 bold")
-            self.label1.place(relheight=0.16, rely=0.01, relx=0.10)
+            self.label1.place(relheight=0.10, rely=0.00, relx=0.10)
 
 
             self.movieName = Entry(self.search,font="Helvetica 14")
-            self.movieName.place(relwidth=0.4,relheight=0.10, rely=0.16, relx=0.10)
+            self.movieName.place(relwidth=0.4,relheight=0.10, rely=0.1, relx=0.10)
             self.movieName.focus()
 
             # create a Search Button
-            self.rating = Button(self.search, text="Search for rating", font="Helvetica 14 bold", command=lambda: self.get1(self.movieName.get()))
+            self.rating = Button(self.search, text="Search for rating", font="Helvetica 14 bold",
+                                 command=lambda: self.get1(self.movieName.get()))
+            self.rating.place(rely=0.22, relx=0.10)
+
+
+            self.rating = Button(self.search, text="Movie Trailer", font="Helvetica 14 bold",
+                                 command=lambda: self.get4(self.movieName.get()))
             self.rating.place(rely=0.28, relx=0.10)
 
 
@@ -86,6 +92,13 @@ class GUI:
             self.label4 = Label(self.search, text=self.word, font=('helvetica', 10, 'bold'))
             self.label4.place(rely=0.76, relx=0.55)
 
+        def get4(self,movieName):
+            s.send(('TRILER').encode(format))
+            message = movieName
+            s.send(message.encode(format))
+            self.movieName = s.recv(1024).decode(format)
+            self.label4 = Label(self.search, text=self.movieName, font=('helvetica', 10, 'bold'))
+            self.label4.place(rely=0.16, relx=0.55)
 
 # create a GUI class object
 g= GUI()

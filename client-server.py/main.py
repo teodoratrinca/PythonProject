@@ -1,16 +1,18 @@
-# This is a sample Python script.
+import pymongo
+import requests
+from pprint import PrettyPrinter
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+pp = PrettyPrinter()
+
+apiKey = 'c69e149a'
+URL = 'http://www.omdbapi.com/?apikey=' + apiKey
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+myclient = pymongo.MongoClient("mongodb://localhost:27017/")
+mydb = myclient["MovieDB"]
+mycol = mydb["movies"]
+
+# pp.pprint(response['Actors'])
+# pp.pprint(response['Ratings'])
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/

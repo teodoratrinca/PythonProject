@@ -1,10 +1,11 @@
-
-
 import pymongo
 import socket
 from pprint import PrettyPrinter
+import requests
 
 pp = PrettyPrinter()
+apiKey = 'c69e149a'
+URL = 'http://www.omdbapi.com/?apikey='+ apiKey
 format = "utf-8"
 
 host = '127.0.0.1'
@@ -22,12 +23,25 @@ mydb = myclient["MovieDB"]
 mycol = mydb["movies"]
 
 
-def getRating( name):
+def getRating(name):
+    gasit = 0
     myquery = {'Title': name}
     mydoc = mycol.find(myquery)
     for x in mydoc:
+        gasit = 1
         return (x['imdbRating'])
-    return ("Nu s a gasit filmul")
+    if (gasit == 0):
+        params = {
+            't': name,
+            'type': 'movie'}
+        response = requests.get(URL, params=params).json()
+        if response['Response']=='False':# daca nu a gasit nici aici
+           return "Movie not found"
+        else:
+            x = mycol.insert_one(response)
+            return (response['imdbRating'])
+    # return ("Nu s a gasit filmul")
+
 
 def getRatingByActor( actor):
     gasit = 0
@@ -65,6 +79,9 @@ def getRatingByWord( word):
     else:
         return (allmovie)
 
+def getTriler(name):
+    print(name)
+
 def start():
     print("Server is working on " + host)
     s.listen()
@@ -80,6 +97,9 @@ def start():
         if message =='WORD':
             message1 = conn.recv(1024).decode(format)
             conn.send((getRatingByWord(message1)).encode(format))
+        if message =='TRILER':
+            message1 = conn.recv(1024).decode(format)
+            conn.send((getTriler(message1)).encode(format))
 
 
 start()
