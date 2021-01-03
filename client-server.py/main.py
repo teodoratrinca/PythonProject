@@ -1,12 +1,40 @@
+import requests
 import youtube_search
-apikey='188e5a4dfea40a0e39893fe16b9c9aae'
-language='en-US'
-url='https://api.themoviedb.org/3/movie/{movie_id}?api_key='+apikey+'&language='+language
+
+def getReview(name):
+    apikey = '2AsKNH2Nfs60mXg0mx59YRmHOPuS1pHl'
+    movieTitle = name
+    url = 'https://api.nytimes.com/svc/movies/v2/reviews/search.json?query=' + movieTitle + '&api-key=' + apikey
+    params = {'type': 'movie'}
+    response = requests.get(url, params=params).json()
+    results = response['results']
+    moviesReviews=" "
+    for x in results:# pt fiecare dictionar afisam titlul si linkul spre pagina de review
+        res={'display_title':x["display_title"],'link': x['link'] }
+        res1 = res['link']
+        res2={'display_title':x["display_title"],'url':res1['url']}
+        moviesReviews=moviesReviews+str(res2['display_title'])
+        moviesReviews=moviesReviews+str('\n')
+        moviesReviews = moviesReviews + str(res2['url'])
+        moviesReviews = moviesReviews + str('\n')
+        #print(type(moviesReviews))
+    return (moviesReviews)
+getReview('titanic')
+
+        #for y in res1:
+            # res2={'display_title': x["display_title"],'link': y['url']}
+            # print(res2)
 
 
-results = youtube_search.YoutubeSearch('titanic trailer', max_results=10).to_dict()
+        # print(type(res2))
+        # for y in res1:
+        #    res2={'url': y['link']}
+        #    print(res2)
+        #print(res1)
+        #print(res)
 
-print(results)
+getReview('Titanic')
+
 # returns a dictionary
 # import requests
 # from pprint import PrettyPrinter

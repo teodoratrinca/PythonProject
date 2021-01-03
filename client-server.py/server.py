@@ -7,6 +7,7 @@ import youtube_search
 pp = PrettyPrinter()
 apiKey = 'c69e149a'
 URL = 'http://www.omdbapi.com/?apikey='+ apiKey
+apikey1 = '2AsKNH2Nfs60mXg0mx59YRmHOPuS1pHl'
 format = "utf-8"
 
 host = '127.0.0.1'
@@ -87,12 +88,35 @@ def getTriler(name):
     print(link)
     return(link)
 
+def getReview(name):
+        url = 'https://api.nytimes.com/svc/movies/v2/reviews/search.json?query=' + name + '&api-key=' + apikey1
+        params = {'type': 'movie'}
+        response = requests.get(url, params=params).json()
+        results = response['results']
+        moviesReviews = " "
+        for x in results:  # pt fiecare dictionar afisam titlul si linkul spre pagina de review
+            res = {'display_title': x["display_title"], 'link': x['link']}
+            res1 = res['link']
+            res2 = {'display_title': x["display_title"], 'url': res1['url']}
+            moviesReviews = moviesReviews + str(res2['display_title'])
+            moviesReviews = moviesReviews + str('\n')
+            #moviesReviews = moviesReviews + str('<a>')
+            moviesReviews = moviesReviews + str(res2['url'])
+            #moviesReviews = moviesReviews + str('</a>')
+            moviesReviews = moviesReviews + str('\n')
+        print(moviesReviews)
+        return(moviesReviews)
+
 def start():
     print("Server is working on " + host)
     s.listen()
     while True:
         conn, addr = s.accept()
         message = conn.recv(1024).decode(format)
+        if message =='REVIEW':
+            message1 = conn.recv(1024).decode(format)
+            print(getReview(message1))
+            conn.send((getReview(message1)).encode(format))
         if message == 'TITLE':
             message1 = conn.recv(1024).decode(format)
             conn.send((getRating(message1)).encode(format))
@@ -105,6 +129,7 @@ def start():
         if message =='TRILER':
             message1 = conn.recv(1024).decode(format)
             conn.send((getTriler(message1)).encode(format))
+
 
 
 start()
