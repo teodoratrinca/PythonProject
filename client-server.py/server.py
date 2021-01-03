@@ -2,6 +2,7 @@ import pymongo
 import socket
 from pprint import PrettyPrinter
 import requests
+import youtube_search
 
 pp = PrettyPrinter()
 apiKey = 'c69e149a'
@@ -42,7 +43,6 @@ def getRating(name):
             return (response['imdbRating'])
     # return ("Nu s a gasit filmul")
 
-
 def getRatingByActor( actor):
     gasit = 0
     allmovie = ""
@@ -80,7 +80,12 @@ def getRatingByWord( word):
         return (allmovie)
 
 def getTriler(name):
-    print(name)
+    results = youtube_search.YoutubeSearch(name+" trailer", max_results=10).to_dict()#lista de dictionare
+    x = results[1]
+    print(type(x))
+    link = 'https://www.youtube.com/'+x['url_suffix']
+    print(link)
+    return(link)
 
 def start():
     print("Server is working on " + host)

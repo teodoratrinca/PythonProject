@@ -1,8 +1,7 @@
 
 import socket
+import webbrowser
 from tkinter import *
-
-
 
 host = '127.0.0.1'
 port = 2727
@@ -22,7 +21,7 @@ class GUI:
             #search window
             self.search = Toplevel()
             self.search.title(" Movie Rating ")
-            self.search.config(width = 700, height = 800)
+            self.search.config(width = 760, height = 800)
 
             #create the labels
             self.label1 = Label(self.search,text= "Type your Movie Title:",justify = CENTER,font = "Helvetica 14 bold")
@@ -93,12 +92,18 @@ class GUI:
             self.label4.place(rely=0.76, relx=0.55)
 
         def get4(self,movieName):
+            new=1
             s.send(('TRILER').encode(format))
             message = movieName
             s.send(message.encode(format))
-            self.movieName = s.recv(1024).decode(format)
+            self.movieName = s.recv(1024).decode(format)#url
+
+            def openweb():
+                webbrowser.open(self.movieName, new=new)
+            openweb()
             self.label4 = Label(self.search, text=self.movieName, font=('helvetica', 10, 'bold'))
             self.label4.place(rely=0.16, relx=0.55)
+
 
 # create a GUI class object
 g= GUI()
