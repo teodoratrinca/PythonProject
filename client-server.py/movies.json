@@ -1,0 +1,1481 @@
+[{
+  "_id": {
+    "$oid": "5feb22d504dc2176a19653d9"
+  },
+  "Actors": "Vin Diesel, Paul Walker, Jordana Brewster, Michelle Rodriguez",
+  "Awards": "6 wins & 2 nominations.",
+  "BoxOffice": "$155,064,265",
+  "Country": "USA, Japan",
+  "DVD": "N/A",
+  "Director": "Justin Lin",
+  "Genre": "Action, Thriller",
+  "Language": "English, Spanish",
+  "Metascore": "46",
+  "Plot": "Heading back to the streets where it all began, two men rejoin two women to blast muscle, tuner and exotic cars across Los Angeles and floor through the Mexican desert. When a crime brings them back to L.A., fugitive ex-con Dom Toretto reignites his feud with agent Brian O'Connor. But as they are forced to confront a shared enemy, Dom and Brian must give in to an uncertain new trust if they hope to outmaneuver him. And from convoy heists to precision tunnel crawls across international lines, two men will find the best way to get revenge: push the limits of what's possible behind the wheel.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYjQ1ZTMxNzgtZDcxOC00NWY5LTk3ZjAtYzRhMDhlNDZlOWEzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+  "Production": "Original Film, One Race Productions",
+  "Rated": "PG-13",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "28%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "46/100"
+    }
+  ],
+  "Released": "03 Apr 2009",
+  "Response": "True",
+  "Runtime": "107 min",
+  "Title": "Fast & Furious",
+  "Type": "movie",
+  "Website": "N/A",
+  "Writer": "Chris Morgan, Gary Scott Thompson (characters)",
+  "Year": "2009",
+  "imdbID": "tt1013752",
+  "imdbRating": "6.6",
+  "imdbVotes": "260,889"
+},{
+  "_id": {
+    "$oid": "5feb254034b551bc3edb34a1"
+  },
+  "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+  "Awards": "Nominated for 1 Oscar. Another 38 wins & 79 nominations.",
+  "BoxOffice": "$623,357,910",
+  "Country": "USA",
+  "DVD": "N/A",
+  "Director": "Joss Whedon",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Language": "English, Russian, Hindi",
+  "Metascore": "69",
+  "Plot": "Nick Fury is the director of S.H.I.E.L.D., an international peace-keeping agency. The agency is a who's who of Marvel Super Heroes, with Iron Man, The Incredible Hulk, Thor, Captain America, Hawkeye and Black Widow. When global security is threatened by Loki and his cohorts, Nick Fury and his team will need all their powers to save the world from disaster.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+  "Production": "Marvel Studios",
+  "Rated": "PG-13",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "Released": "04 May 2012",
+  "Response": "True",
+  "Runtime": "143 min",
+  "Title": "The Avengers",
+  "Type": "movie",
+  "Website": "N/A",
+  "Writer": "Joss Whedon (screenplay), Zak Penn (story), Joss Whedon (story)",
+  "Year": "2012",
+  "imdbID": "tt0848228",
+  "imdbRating": "8.0",
+  "imdbVotes": "1,252,715"
+},{
+  "_id": {
+    "$oid": "5feb4b2657dff790bcec088c"
+  },
+  "Actors": "Leonardo DiCaprio, Jeremy Irons, John Malkovich, Gérard Depardieu",
+  "Awards": "3 wins & 4 nominations.",
+  "BoxOffice": "$56,968,902",
+  "Country": "France, USA",
+  "DVD": "N/A",
+  "Director": "Randall Wallace",
+  "Genre": "Action, Adventure, Drama",
+  "Language": "English, Italian",
+  "Metascore": "48",
+  "Plot": "Paris is starving, but the King of France is more interested in money and bedding women. When a young soldier dies for the sake of a shag, Aramis, Athos and Porthos band together with a plan to replace the king. Unknown to many, there is a 2nd king, a twin, hidden at birth, then imprisoned for 6 years behind an iron mask. All that remains now is D'Artagnan, will he stand against his long time friends, or do what is best for his country?",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZjM2YzcxMmQtOTc2Mi00YjdhLWFlZjUtNmFmMDQzYzU2YTk5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "Production": "United Artists",
+  "Rated": "PG-13",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "32%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "48/100"
+    }
+  ],
+  "Released": "13 Mar 1998",
+  "Response": "True",
+  "Runtime": "132 min",
+  "Title": "The Man in the Iron Mask",
+  "Type": "movie",
+  "Website": "N/A",
+  "Writer": "Alexandre Dumas (novels), Randall Wallace (screenplay)",
+  "Year": "1998",
+  "imdbID": "tt0120744",
+  "imdbRating": "6.5",
+  "imdbVotes": "155,660"
+},{
+  "_id": {
+    "$oid": "5feccda5421d179ca4eaf990"
+  },
+  "Actors": "Vin Diesel, Paul Walker, Dwayne Johnson, Jordana Brewster",
+  "Awards": "10 wins & 22 nominations.",
+  "BoxOffice": "$238,679,850",
+  "Country": "USA, Japan, Spain, UK",
+  "DVD": "N/A",
+  "Director": "Justin Lin",
+  "Genre": "Action, Adventure, Thriller",
+  "Language": "English, Spanish, Russian, Japanese, Cantonese, Dutch",
+  "Metascore": "61",
+  "Plot": "Since Dom (Diesel) and Brian's (Walker) Rio heist toppled a kingpin's empire and left their crew with $100 million, our heroes have scattered across the globe. But their inability to return home and living forever on the lam have left their lives incomplete. Meanwhile, Hobbs (Johnson) has been tracking an organization of lethally skilled mercenary drivers across 12 countries, whose mastermind (Evans) is aided by a ruthless second-in-command revealed to be the love Dom thought was dead, Letty (Rodriguez). The only way to stop the criminal outfit is to outmatch them at street level, so Hobbs asks Dom to assemble his elite team in London. Payment? Full pardons for all of them so they can return home and make their families whole again.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTM3NTg2NDQzOF5BMl5BanBnXkFtZTcwNjc2NzQzOQ@@._V1_SX300.jpg",
+  "Production": "Original Film, One Race Productions",
+  "Rated": "PG-13",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "70%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "Released": "24 May 2013",
+  "Response": "True",
+  "Runtime": "130 min",
+  "Title": "Fast & Furious 6",
+  "Type": "movie",
+  "Website": "N/A",
+  "Writer": "Chris Morgan, Gary Scott Thompson (characters)",
+  "Year": "2013",
+  "imdbID": "tt1905041",
+  "imdbRating": "7.1",
+  "imdbVotes": "366,264"
+},{
+  "_id": {
+    "$oid": "5feccdeca1b96e138d81f887"
+  },
+  "Actors": "Lisa Adam, Frank Aldridge, Amitabh Bachchan, Steve Bisley",
+  "Awards": "Won 2 Oscars. Another 48 wins & 85 nominations.",
+  "BoxOffice": "$144,840,419",
+  "Country": "Australia, USA",
+  "DVD": "N/A",
+  "Director": "Baz Luhrmann",
+  "Genre": "Drama, Romance",
+  "Language": "English",
+  "Metascore": "55",
+  "Plot": "An adaptation of F. Scott Fitzgerald's Long Island-set novel, where Midwesterner Nick Carraway is lured into the lavish world of his neighbor, Jay Gatsby. Soon enough, however, Carraway will see through the cracks of Gatsby's nouveau riche existence, where obsession, madness, and tragedy await.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTkxNTk1ODcxNl5BMl5BanBnXkFtZTcwMDI1OTMzOQ@@._V1_SX300.jpg",
+  "Production": "Bazmark Films, Red Wagon Entertainment",
+  "Rated": "PG-13",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "48%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "Released": "10 May 2013",
+  "Response": "True",
+  "Runtime": "143 min",
+  "Title": "The Great Gatsby",
+  "Type": "movie",
+  "Website": "N/A",
+  "Writer": "Baz Luhrmann (screenplay), Craig Pearce (screenplay), F. Scott Fitzgerald (based on the novel by)",
+  "Year": "2013",
+  "imdbID": "tt1343092",
+  "imdbRating": "7.2",
+  "imdbVotes": "473,624"
+},{
+  "_id": {
+    "$oid": "5fecce21f6c6b48169e68d3c"
+  },
+  "Actors": "Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe",
+  "Awards": "Nominated for 3 Oscars. Another 46 wins & 91 nominations.",
+  "BoxOffice": "$381,409,310",
+  "Country": "UK, USA",
+  "DVD": "N/A",
+  "Director": "David Yates",
+  "Genre": "Adventure, Drama, Fantasy, Mystery",
+  "Language": "English",
+  "Metascore": "85",
+  "Plot": "Harry, Ron, and Hermione continue their quest of finding and destroying the Dark Lord's three remaining Horcruxes, the magical items responsible for his immortality. But as the mystical Deathly Hallows are uncovered, and Voldemort finds out about their mission, the biggest battle begins and life as they know it will never be the same again.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+  "Production": "Heyday Films, Moving Picture Company, Warner Bros.",
+  "Rated": "PG-13",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "Released": "15 Jul 2011",
+  "Response": "True",
+  "Runtime": "130 min",
+  "Title": "Harry Potter and the Deathly Hallows: Part 2",
+  "Type": "movie",
+  "Website": "N/A",
+  "Writer": "Steve Kloves (screenplay), J.K. Rowling (novel)",
+  "Year": "2011",
+  "imdbID": "tt1201607",
+  "imdbRating": "8.1",
+  "imdbVotes": "755,663"
+},{
+  "_id": {
+    "$oid": "5fecce8bb69cde2b6a076ba5"
+  },
+  "Actors": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick",
+  "Awards": "Won 4 Oscars. Another 32 wins & 33 nominations.",
+  "BoxOffice": "N/A",
+  "Country": "USA, France",
+  "DVD": "N/A",
+  "Director": "James Cameron",
+  "Genre": "Action, Sci-Fi",
+  "Language": "English, Spanish",
+  "Metascore": "75",
+  "Plot": "Over 10 years have passed since the first cyborg called The Terminator tried to kill Sarah Connor and her unborn son, John Connor. John Connor, the future leader of the human resistance, is now a healthy young boy. However another Terminator is sent back through time called the T-1000, which is more advanced and more powerful than its predecessor. The Mission: to kill John Connor when he's still a child. However, Sarah and John do not have to face this threat of a Terminator alone. Another Terminator is also sent back through time. The mission: to protect John and Sarah Connor at all costs. The battle for tomorrow has begun...",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+  "Production": "Lightstorm Entertainment, Carolco Pictures Inc., Pacific Western",
+  "Rated": "R",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "Released": "03 Jul 1991",
+  "Response": "True",
+  "Runtime": "137 min",
+  "Title": "Terminator 2: Judgment Day",
+  "Type": "movie",
+  "Website": "N/A",
+  "Writer": "James Cameron, William Wisher",
+  "Year": "1991",
+  "imdbID": "tt0103064",
+  "imdbRating": "8.5",
+  "imdbVotes": "987,126"
+},{
+  "_id": {
+    "$oid": "5fecceb556538636fec18755"
+  },
+  "Actors": "Michael Fassbender, Lewis Hamilton, Niki Lauda, Michael Schumacher",
+  "Awards": "1 nomination.",
+  "BoxOffice": "N/A",
+  "Country": "USA",
+  "DVD": "N/A",
+  "Director": "Paul Crowder",
+  "Genre": "Documentary, History, Sport",
+  "Language": "English",
+  "Metascore": "N/A",
+  "Plot": "Set in the golden era of Grand Prix Racing '1' tells the story of a generation of charismatic drivers who raced on the edge, risking their lives during Formula 1's deadliest period, and the men who stood up and changed the sport forever.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxNDI5NTMxMF5BMl5BanBnXkFtZTgwMDMzMjg4MTE@._V1_SX300.jpg",
+  "Production": "Diamond Docs",
+  "Rated": "Not Rated",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    }
+  ],
+  "Released": "01 Oct 2013",
+  "Response": "True",
+  "Runtime": "112 min",
+  "Title": "1",
+  "Type": "movie",
+  "Website": "N/A",
+  "Writer": "Mark Monroe",
+  "Year": "2013",
+  "imdbID": "tt2518788",
+  "imdbRating": "8.0",
+  "imdbVotes": "3,840"
+},{
+  "_id": {
+    "$oid": "5fecced3eb528d16aa5eb946"
+  },
+  "Actors": "Tom Hanks, Tim Allen, Joan Cusack, Ned Beatty",
+  "Awards": "Won 2 Oscars. Another 59 wins & 95 nominations.",
+  "BoxOffice": "$415,004,880",
+  "Country": "USA",
+  "DVD": "N/A",
+  "Director": "Lee Unkrich",
+  "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+  "Language": "English, Spanish",
+  "Metascore": "92",
+  "Plot": "Woody, Buzz and the whole gang are back. As their owner Andy prepares to depart for college, his loyal toys find themselves in daycare where untamed tots with their sticky little fingers do not play nice. So, it's all for one and one for all as they join Barbie's counterpart Ken, a thespian hedgehog named Mr. Pricklepants and a pink, strawberry-scented teddy bear called Lots-o'-Huggin' Bear to plan their great escape.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_SX300.jpg",
+  "Production": "Pixar Animation Studios, Walt Disney Animation",
+  "Rated": "G",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "92/100"
+    }
+  ],
+  "Released": "18 Jun 2010",
+  "Response": "True",
+  "Runtime": "103 min",
+  "Title": "Toy Story 3",
+  "Type": "movie",
+  "Website": "N/A",
+  "Writer": "John Lasseter (story by), Andrew Stanton (story by), Lee Unkrich (story by), Michael Arndt (screenplay by)",
+  "Year": "2010",
+  "imdbID": "tt0435761",
+  "imdbRating": "8.3",
+  "imdbVotes": "750,196"
+},{
+  "_id": {
+    "$oid": "5feccf0303ce9be8fed9e7b7"
+  },
+  "Actors": "Barnard Hughes, Martin Sheen, William Hickey, Karl Hayden",
+  "Awards": "1 win & 1 nomination.",
+  "BoxOffice": "N/A",
+  "Country": "USA",
+  "DVD": "N/A",
+  "Director": "Matt Clark",
+  "Genre": "Drama, Fantasy",
+  "Language": "English",
+  "Metascore": "N/A",
+  "Plot": "A New York playwright is summoned to Ireland to bury his father (his \"Da\"). While at his boyhood home, he encounters his father's spirit and relives memories both pleasant and not.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTgzYmJhZDgtODYxNC00YzExLWI0NzUtZjRhMjgwNTY2MTNmXkEyXkFqcGdeQXVyNDYzNTI2ODc@._V1_SX300.jpg",
+  "Production": "N/A",
+  "Rated": "PG",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "70%"
+    }
+  ],
+  "Released": "01 Jul 1988",
+  "Response": "True",
+  "Runtime": "102 min",
+  "Title": "Da",
+  "Type": "movie",
+  "Website": "N/A",
+  "Writer": "Hugh Leonard (play), Hugh Leonard (screenplay)",
+  "Year": "1988",
+  "imdbID": "tt0094934",
+  "imdbRating": "6.5",
+  "imdbVotes": "427"
+},{
+  "_id": {
+    "$oid": "5ff0c6f776d18d63bd4ffbf7"
+  },
+  "Title": "EFS: Covert Ops Unlimited",
+  "Year": "2012",
+  "Rated": "N/A",
+  "Released": "25 Jul 2012",
+  "Runtime": "N/A",
+  "Genre": "Action",
+  "Director": "Angel Lebon",
+  "Writer": "Angel Lebon (creator)",
+  "Actors": "Max Aria, Dean Barlage, Neven Tomic, Dennis Kreusler",
+  "Plot": "Codename Excalibur must build a covert ops team to stop an impending attack on American soil. With the help of the best special force operatives in the world his mission is to track and ...",
+  "Language": "English",
+  "Country": "USA",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMTU0MDQ3OV5BMl5BanBnXkFtZTcwNjA2Mjg2OA@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "8.0",
+  "imdbVotes": "109",
+  "imdbID": "tt2322694",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+},{
+  "_id": {
+    "$oid": "5ff0c74f17d901b9a8b4c2ef"
+  },
+  "Title": "The Shawshank Redemption",
+  "Year": "1994",
+  "Rated": "R",
+  "Released": "14 Oct 1994",
+  "Runtime": "142 min",
+  "Genre": "Drama",
+  "Director": "Frank Darabont",
+  "Writer": "Stephen King (short story \"Rita Hayworth and Shawshank Redemption\"), Frank Darabont (screenplay)",
+  "Actors": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",
+  "Plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+  "Language": "English",
+  "Country": "USA",
+  "Awards": "Nominated for 7 Oscars. Another 21 wins & 36 nominations.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "9.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "Metascore": "80",
+  "imdbRating": "9.3",
+  "imdbVotes": "2,321,344",
+  "imdbID": "tt0111161",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$28,699,976",
+  "Production": "Columbia Pictures, Castle Rock Entertainment",
+  "Website": "N/A",
+  "Response": "True"
+},{
+  "_id": {
+    "$oid": "5ff0c96307101f806701633d"
+  },
+  "Title": "Gold",
+  "Year": "2016",
+  "Rated": "R",
+  "Released": "27 Jan 2017",
+  "Runtime": "120 min",
+  "Genre": "Crime, Drama",
+  "Director": "Stephen Gaghan",
+  "Writer": "Patrick Massett, John Zinman",
+  "Actors": "Matthew McConaughey, Edgar Ramírez, Bryce Dallas Howard, Corey Stoll",
+  "Plot": "Kenny Wells, a prospector desperate for a lucky break, teams up with a similarly eager geologist and sets off on a journey to find gold in the uncharted jungle of Indonesia.",
+  "Language": "English, Indonesian",
+  "Country": "USA",
+  "Awards": "Nominated for 1 Golden Globe. Another 1 win & 4 nominations.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjEwNzMzMDI4Nl5BMl5BanBnXkFtZTgwMTM2ODkwMTI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "42%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "49/100"
+    }
+  ],
+  "Metascore": "49",
+  "imdbRating": "6.7",
+  "imdbVotes": "56,648",
+  "imdbID": "tt1800302",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$7,227,038",
+  "Production": "Black Bear Pictures, Living Films, Hwy 61 Films",
+  "Website": "N/A",
+  "Response": "True"
+},{
+  "_id": {
+    "$oid": "5ff0c9833d20fa6a09fb8695"
+  },
+  "Title": "Manchester by the Sea",
+  "Year": "2016",
+  "Rated": "R",
+  "Released": "16 Dec 2016",
+  "Runtime": "137 min",
+  "Genre": "Drama",
+  "Director": "Kenneth Lonergan",
+  "Writer": "Kenneth Lonergan",
+  "Actors": "Casey Affleck, Ben O'Brien, Kyle Chandler, Richard Donelly",
+  "Plot": "A depressed uncle is asked to take care of his teenage nephew after the boy's father dies.",
+  "Language": "English",
+  "Country": "USA",
+  "Awards": "Won 2 Oscars. Another 129 wins & 259 nominations.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTYxMjk0NDg4Ml5BMl5BanBnXkFtZTgwODcyNjA5OTE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "96/100"
+    }
+  ],
+  "Metascore": "96",
+  "imdbRating": "7.8",
+  "imdbVotes": "243,869",
+  "imdbID": "tt4034228",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$47,695,371",
+  "Production": "Roadside Attractions, Big Indie Pictures",
+  "Website": "N/A",
+  "Response": "True"
+},{
+  "_id": {
+    "$oid": "5ff0c99c137cc470162c2198"
+  },
+  "Title": "Hounds of Love",
+  "Year": "2016",
+  "Rated": "Not Rated",
+  "Released": "12 May 2017",
+  "Runtime": "108 min",
+  "Genre": "Crime, Drama, Thriller",
+  "Director": "Ben Young",
+  "Writer": "Ben Young",
+  "Actors": "Emma Booth, Ashleigh Cummings, Stephen Curry, Susie Porter",
+  "Plot": "Vicki Maloney is randomly abducted from a suburban street by a disturbed couple. As she observes the dynamic between her captors she quickly realises she must drive a wedge between them if she is to survive.",
+  "Language": "English",
+  "Country": "Australia",
+  "Awards": "18 wins & 27 nominations.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTk2Mjg3MzM5M15BMl5BanBnXkFtZTgwNTA4ODQ5MTI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "Metascore": "73",
+  "imdbRating": "6.5",
+  "imdbVotes": "10,308",
+  "imdbID": "tt3896738",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+},{
+  "_id": {
+    "$oid": "5ff0c9a9fca7e1db9cbccfdc"
+  },
+  "Title": "Trolls",
+  "Year": "2016",
+  "Rated": "PG",
+  "Released": "04 Nov 2016",
+  "Runtime": "92 min",
+  "Genre": "Animation, Adventure, Comedy, Family, Fantasy, Musical",
+  "Director": "Mike Mitchell, Walt Dohrn(co-director)",
+  "Writer": "Jonathan Aibel (screenplay by), Glenn Berger (screenplay by), Erica Rivinoja (story by), Thomas Dam (based on the Good Luck Trolls created by)",
+  "Actors": "Anna Kendrick, Justin Timberlake, Zooey Deschanel, Christopher Mintz-Plasse",
+  "Plot": "After the Bergens invade Troll Village, Poppy, the happiest Troll ever born, and the curmudgeonly Branch set off on a journey to rescue her friends.",
+  "Language": "English",
+  "Country": "USA",
+  "Awards": "Nominated for 1 Oscar. Another 4 wins & 35 nominations.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "76%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "Metascore": "55",
+  "imdbRating": "6.5",
+  "imdbVotes": "71,495",
+  "imdbID": "tt1679335",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$153,707,064",
+  "Production": "DreamWorks Animation",
+  "Website": "N/A",
+  "Response": "True"
+},{
+  "_id": {
+    "$oid": "5ff0c9b2c14fb2de8cb2b30c"
+  },
+  "Title": "Independence Day: Resurgence",
+  "Year": "2016",
+  "Rated": "PG-13",
+  "Released": "24 Jun 2016",
+  "Runtime": "120 min",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Director": "Roland Emmerich",
+  "Writer": "Nicolas Wright (screenplay by), James A. Woods (screenplay by), Dean Devlin (screenplay by), Roland Emmerich (screenplay by), James Vanderbilt (screenplay by), Dean Devlin (story by), Roland Emmerich (story by), Nicolas Wright (story by), James A. Woods (story by), Dean Devlin (based on characters created by), Roland Emmerich (based on characters created by)",
+  "Actors": "Liam Hemsworth, Jeff Goldblum, Jessie T. Usher, Bill Pullman",
+  "Plot": "Two decades after the first Independence Day invasion, Earth is faced with a new extra-Solar threat. But will mankind's new space defenses be enough?",
+  "Language": "English, Mandarin",
+  "Country": "USA",
+  "Awards": "3 wins & 17 nominations.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjIyMTg5MTg4OV5BMl5BanBnXkFtZTgwMzkzMjY5NzE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "30%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "32/100"
+    }
+  ],
+  "Metascore": "32",
+  "imdbRating": "5.2",
+  "imdbVotes": "165,866",
+  "imdbID": "tt1628841",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$103,144,286",
+  "Production": "20th Century Fox, Centropolis Entertainment, TSG Entertainment",
+  "Website": "N/A",
+  "Response": "True"
+},{
+  "_id": {
+    "$oid": "5ff0c9eabd142e781c9e54a1"
+  },
+  "Title": "Dead Awake",
+  "Year": "2016",
+  "Rated": "Not Rated",
+  "Released": "12 May 2017",
+  "Runtime": "99 min",
+  "Genre": "Horror, Thriller",
+  "Director": "Phillip Guzman",
+  "Writer": "Jeffrey Reddick",
+  "Actors": "Jocelin Donahue, Jesse Bradford, Jesse Borrego, Lori Petty",
+  "Plot": "A young woman must save herself and her friends from an ancient evil that stalks its victims through the real-life phenomenon of sleep paralysis.",
+  "Language": "English",
+  "Country": "USA",
+  "Awards": "4 wins & 2 nominations.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTY1MDExOTI0Ml5BMl5BanBnXkFtZTgwNjA5MDExMDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.6/10"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "4.6",
+  "imdbVotes": "3,016",
+  "imdbID": "tt3778010",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+},{
+  "_id": {
+    "$oid": "5ff0c9f4453a3f3bb4f3e65c"
+  },
+  "Title": "Bad Moms",
+  "Year": "2016",
+  "Rated": "R",
+  "Released": "29 Jul 2016",
+  "Runtime": "100 min",
+  "Genre": "Comedy",
+  "Director": "Jon Lucas, Scott Moore",
+  "Writer": "Jon Lucas, Scott Moore",
+  "Actors": "Mila Kunis, Kathryn Hahn, Kristen Bell, Christina Applegate",
+  "Plot": "When three overworked and under-appreciated moms are pushed beyond their limits, they ditch their conventional responsibilities for a jolt of long overdue freedom, fun and comedic self-indulgence.",
+  "Language": "English",
+  "Country": "USA",
+  "Awards": "3 wins & 5 nominations.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwNzE5MTgwNl5BMl5BanBnXkFtZTgwNjM4OTA0OTE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "58%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "Metascore": "60",
+  "imdbRating": "6.2",
+  "imdbVotes": "113,110",
+  "imdbID": "tt4651520",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$113,257,297",
+  "Production": "Lucas &amp; Moore, Huayi Brothers, Merced Media Partners, Block Entertainment, PalmStar Media",
+  "Website": "N/A",
+  "Response": "True"
+},{
+  "_id": {
+    "$oid": "5ff0ca0f55c3136544c0fe6d"
+  },
+  "Title": "Why Him?",
+  "Year": "2016",
+  "Rated": "R",
+  "Released": "23 Dec 2016",
+  "Runtime": "111 min",
+  "Genre": "Comedy",
+  "Director": "John Hamburg",
+  "Writer": "John Hamburg (screenplay by), Ian Helfer (screenplay by), Jonah Hill (story by), John Hamburg (story by), Ian Helfer (story by)",
+  "Actors": "Zoey Deutch, James Franco, Tangie Ambrose, Cedric the Entertainer",
+  "Plot": "A holiday gathering threatens to go off the rails when Ned Fleming realizes that his daughter's Silicon Valley millionaire boyfriend is about to pop the question.",
+  "Language": "English, Khmer",
+  "Country": "USA, Cambodia",
+  "Awards": "1 win.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDlkMDQ1NzUtNGE3OC00NmUwLWI0NjAtNDJmODUzY2NhOGIzL2ltYWdlXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "39%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "39/100"
+    }
+  ],
+  "Metascore": "39",
+  "imdbRating": "6.2",
+  "imdbVotes": "100,237",
+  "imdbID": "tt4501244",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$60,323,786",
+  "Production": "21 Laps Entertainment, TSG Entertainment, Red Hour Productions",
+  "Website": "N/A",
+  "Response": "True"
+},{
+  "_id": {
+    "$oid": "5ff0ca1967a932e9f6a6ff02"
+  },
+  "Title": "Nocturnal Animals",
+  "Year": "2016",
+  "Rated": "R",
+  "Released": "09 Dec 2016",
+  "Runtime": "116 min",
+  "Genre": "Drama, Thriller",
+  "Director": "Tom Ford",
+  "Writer": "Tom Ford (screenplay by), Austin Wright (novel)",
+  "Actors": "Amy Adams, Jake Gyllenhaal, Michael Shannon, Aaron Taylor-Johnson",
+  "Plot": "A wealthy art gallery owner is haunted by her ex-husband's novel, a violent thriller she interprets as a symbolic revenge tale.",
+  "Language": "English",
+  "Country": "USA",
+  "Awards": "Nominated for 1 Oscar. Another 19 wins & 146 nominations.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTYwMzMwMzgxNl5BMl5BanBnXkFtZTgwMTA0MTUzMDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "74%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "Metascore": "67",
+  "imdbRating": "7.5",
+  "imdbVotes": "234,834",
+  "imdbID": "tt4550098",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$10,663,357",
+  "Production": "Focus Features, Artina Films, Fade to Black Productions",
+  "Website": "N/A",
+  "Response": "True"
+},{
+  "_id": {
+    "$oid": "5ff0ca290cf764e0f8479afd"
+  },
+  "Title": "X-Men: Apocalypse",
+  "Year": "2016",
+  "Rated": "PG-13",
+  "Released": "27 May 2016",
+  "Runtime": "144 min",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Director": "Bryan Singer",
+  "Writer": "Simon Kinberg (screenplay by), Bryan Singer (story by), Simon Kinberg (story by), Michael Dougherty (story by), Dan Harris (story by)",
+  "Actors": "James McAvoy, Michael Fassbender, Jennifer Lawrence, Nicholas Hoult",
+  "Plot": "In the 1980s the X-Men must defeat an ancient all-powerful mutant, En Sabah Nur, who intends to thrive through bringing destruction to the world.",
+  "Language": "English, Polish, German, Arabic, Egyptian (Ancient)",
+  "Country": "USA",
+  "Awards": "1 win & 19 nominations.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjU1ODM1MzYxN15BMl5BanBnXkFtZTgwOTA4NDE2ODE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "47%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "Metascore": "52",
+  "imdbRating": "6.9",
+  "imdbVotes": "389,921",
+  "imdbID": "tt3385516",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$155,442,489",
+  "Production": "Bad Hat Harry, Donners&#39; Company, Kinberg Genre",
+  "Website": "N/A",
+  "Response": "True"
+},{
+  "_id": {
+    "$oid": "5ff0ca339f9912efa0b95d78"
+  },
+  "Title": "Deadpool",
+  "Year": "2016",
+  "Rated": "R",
+  "Released": "12 Feb 2016",
+  "Runtime": "108 min",
+  "Genre": "Action, Adventure, Comedy, Sci-Fi",
+  "Director": "Tim Miller",
+  "Writer": "Rhett Reese, Paul Wernick",
+  "Actors": "Ryan Reynolds, Karan Soni, Ed Skrein, Michael Benyaer",
+  "Plot": "A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.",
+  "Language": "English",
+  "Country": "USA",
+  "Awards": "Nominated for 2 Golden Globes. Another 28 wins & 75 nominations.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "65/100"
+    }
+  ],
+  "Metascore": "65",
+  "imdbRating": "8.0",
+  "imdbVotes": "894,611",
+  "imdbID": "tt1431045",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$363,070,709",
+  "Production": "Kinberg Genre, Donners&#39; Company",
+  "Website": "N/A",
+  "Response": "True"
+},{
+  "_id": {
+    "$oid": "5ff0ca3e82785b901acb60f9"
+  },
+  "Title": "Resident Evil: The Final Chapter",
+  "Year": "2016",
+  "Rated": "R",
+  "Released": "27 Jan 2017",
+  "Runtime": "107 min",
+  "Genre": "Action, Horror, Sci-Fi",
+  "Director": "Paul W.S. Anderson",
+  "Writer": "Paul W.S. Anderson",
+  "Actors": "Milla Jovovich, Iain Glen, Ali Larter, Shawn Roberts",
+  "Plot": "Alice returns to where the nightmare began: The Hive in Raccoon City, where the Umbrella Corporation is gathering its forces for a final strike against the only remaining survivors of the apocalypse.",
+  "Language": "English",
+  "Country": "USA, Germany, France, Canada, South Africa, Australia, UK, Japan, China",
+  "Awards": "2 wins & 3 nominations.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTc0Mzc2OTQ0Ml5BMl5BanBnXkFtZTgwOTQ5MjE4MDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "37%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "49/100"
+    }
+  ],
+  "Metascore": "49",
+  "imdbRating": "5.5",
+  "imdbVotes": "83,278",
+  "imdbID": "tt2592614",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$26,830,068",
+  "Production": "Constantin Film",
+  "Website": "N/A",
+  "Response": "True"
+},{
+  "_id": {
+    "$oid": "5ff0ca53125937702bcb1e92"
+  },
+  "Title": "Interstellar",
+  "Year": "2014",
+  "Rated": "PG-13",
+  "Released": "07 Nov 2014",
+  "Runtime": "169 min",
+  "Genre": "Adventure, Drama, Sci-Fi",
+  "Director": "Christopher Nolan",
+  "Writer": "Jonathan Nolan, Christopher Nolan",
+  "Actors": "Ellen Burstyn, Matthew McConaughey, Mackenzie Foy, John Lithgow",
+  "Plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+  "Language": "English",
+  "Country": "USA, UK, Canada",
+  "Awards": "Won 1 Oscar. Another 43 wins & 148 nominations.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "Metascore": "74",
+  "imdbRating": "8.6",
+  "imdbVotes": "1,486,802",
+  "imdbID": "tt0816692",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "Syncopy, Lynda Obst Productions",
+  "Website": "N/A",
+  "Response": "True"
+},{
+  "_id": {
+    "$oid": "5ff0ca5d10f9fcaec3e8e98c"
+  },
+  "Title": "Doctor Strange",
+  "Year": "2016",
+  "Rated": "PG-13",
+  "Released": "04 Nov 2016",
+  "Runtime": "115 min",
+  "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+  "Director": "Scott Derrickson",
+  "Writer": "Jon Spaihts, Scott Derrickson, C. Robert Cargill, Stan Lee (based on the Marvel comics by), Steve Ditko (based on the Marvel comics by)",
+  "Actors": "Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams, Benedict Wong",
+  "Plot": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.",
+  "Language": "English",
+  "Country": "USA",
+  "Awards": "Nominated for 1 Oscar. Another 20 wins & 66 nominations.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "Metascore": "72",
+  "imdbRating": "7.5",
+  "imdbVotes": "589,860",
+  "imdbID": "tt1211837",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "Marvel Studios, Marvel Entertainment",
+  "Website": "N/A",
+  "Response": "True"
+},{
+  "_id": {
+    "$oid": "5ff0ca6e3782c94419d8413c"
+  },
+  "Title": "The Magnificent Seven",
+  "Year": "2016",
+  "Rated": "PG-13",
+  "Released": "23 Sep 2016",
+  "Runtime": "132 min",
+  "Genre": "Action, Adventure, Western",
+  "Director": "Antoine Fuqua",
+  "Writer": "Akira Kurosawa (based on the screenplay by), Shinobu Hashimoto (based on the screenplay by), Hideo Oguni (based on the screenplay by), Nic Pizzolatto (screenplay), Richard Wenk (screenplay)",
+  "Actors": "Denzel Washington, Chris Pratt, Ethan Hawke, Vincent D'Onofrio",
+  "Plot": "Seven gunmen from a variety of backgrounds are brought together by a vengeful young widow to protect her town from the private army of a destructive industrialist.",
+  "Language": "English, North American Indian, Spanish",
+  "Country": "USA, Australia",
+  "Awards": "5 wins & 12 nominations.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTUzNTc0NTAyM15BMl5BanBnXkFtZTgwMTk1ODA5OTE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "64%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "Metascore": "54",
+  "imdbRating": "6.9",
+  "imdbVotes": "183,706",
+  "imdbID": "tt2404435",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$93,432,655",
+  "Production": "Escape Artists, LStar Capital, Pin High, Village Roadshow Pictures, Fuqua Films",
+  "Website": "N/A",
+  "Response": "True"
+},{
+  "_id": {
+    "$oid": "5ff0ca7f309391f37a9f6c89"
+  },
+  "Title": "Sausage Party",
+  "Year": "2016",
+  "Rated": "R",
+  "Released": "12 Aug 2016",
+  "Runtime": "89 min",
+  "Genre": "Animation, Adventure, Comedy, Fantasy",
+  "Director": "Greg Tiernan, Conrad Vernon",
+  "Writer": "Kyle Hunter (screenplay by), Ariel Shaffir (screenplay by), Seth Rogen (screenplay by), Evan Goldberg (screenplay by), Seth Rogen (story by), Evan Goldberg (story by), Jonah Hill (story by)",
+  "Actors": "Alistair Abell, Iris Apatow, Sugar Lyn Beard, Michael Cera",
+  "Plot": "A sausage strives to discover the truth about his existence.",
+  "Language": "English",
+  "Country": "USA, Canada",
+  "Awards": "1 win & 24 nominations.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjkxOTk1MzY4MF5BMl5BanBnXkFtZTgwODQzOTU5ODE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "Metascore": "66",
+  "imdbRating": "6.1",
+  "imdbVotes": "174,293",
+  "imdbID": "tt1700841",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "Sony Music, Point Grey, Annapurna Pictures, Columbia Pictures",
+  "Website": "N/A",
+  "Response": "True"
+},{
+  "_id": {
+    "$oid": "5ff0ca8b6f0db4b961e4e7d9"
+  },
+  "Title": "Moonlight",
+  "Year": "2016",
+  "Rated": "R",
+  "Released": "18 Nov 2016",
+  "Runtime": "111 min",
+  "Genre": "Drama",
+  "Director": "Barry Jenkins",
+  "Writer": "Barry Jenkins (screenplay by), Tarell Alvin McCraney (story by)",
+  "Actors": "Mahershala Ali, Shariff Earp, Duan Sanderson, Alex R. Hibbert",
+  "Plot": "A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood.",
+  "Language": "English",
+  "Country": "USA",
+  "Awards": "Won 3 Oscars. Another 226 wins & 289 nominations.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "99/100"
+    }
+  ],
+  "Metascore": "99",
+  "imdbRating": "7.4",
+  "imdbVotes": "269,475",
+  "imdbID": "tt4975722",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "Plan B Entertainment, Upload Films, Pastel",
+  "Website": "N/A",
+  "Response": "True"
+},{
+  "_id": {
+    "$oid": "5ff0cae3ca144f0d3088ebec"
+  },
+  "Title": "Twilight",
+  "Year": "2008",
+  "Rated": "PG-13",
+  "Released": "21 Nov 2008",
+  "Runtime": "122 min",
+  "Genre": "Drama, Fantasy, Romance",
+  "Director": "Catherine Hardwicke",
+  "Writer": "Melissa Rosenberg (screenplay), Stephenie Meyer (novel)",
+  "Actors": "Kristen Stewart, Sarah Clarke, Matt Bushell, Billy Burke",
+  "Plot": "When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire.",
+  "Language": "English",
+  "Country": "USA",
+  "Awards": "29 wins & 15 nominations.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NzUxMTAxN15BMl5BanBnXkFtZTcwMzEyMTIwMg@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "49%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "Metascore": "56",
+  "imdbRating": "5.2",
+  "imdbVotes": "424,031",
+  "imdbID": "tt1099212",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$193,962,473",
+  "Production": "Temple Hill",
+  "Website": "N/A",
+  "Response": "True"
+},{
+  "_id": {
+    "$oid": "5ff0cc92ca144f0d3088ebed"
+  },
+  "Title": "Catch Me If You Can",
+  "Year": "2002",
+  "Rated": "PG-13",
+  "Released": "25 Dec 2002",
+  "Runtime": "141 min",
+  "Genre": "Biography, Crime, Drama",
+  "Director": "Steven Spielberg",
+  "Writer": "Jeff Nathanson (screenplay), Frank Abagnale Jr. (book), Stan Redding (book)",
+  "Actors": "Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen",
+  "Plot": "Barely 21 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl, becomes obsessed with tracking down the con man. But Frank not only eludes capture, he revels in the pursuit.",
+  "Language": "English, French",
+  "Country": "USA, Canada",
+  "Awards": "Nominated for 2 Oscars. Another 16 wins & 44 nominations.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "Metascore": "75",
+  "imdbRating": "8.1",
+  "imdbVotes": "819,353",
+  "imdbID": "tt0264464",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$164,615,351",
+  "Production": "Amblin Entertainment, DreamWorks SKG, Parkes/MacDonald, Splendid Pictures",
+  "Website": "N/A",
+  "Response": "True"
+},{
+  "_id": {
+    "$oid": "5ff0cf880f1690644cf6b55d"
+  },
+  "Title": "La Trinca: biografia no autoritzada",
+  "Year": "2011",
+  "Rated": "N/A",
+  "Released": "22 Jun 2011",
+  "Runtime": "96 min",
+  "Genre": "Comedy",
+  "Director": "Joaquín Oristrell",
+  "Writer": "Manuel Iborra, Joaquín Oristrell",
+  "Actors": "Joel Joan, Marina Gatell, Carmen Balagué, Albert Espinosa",
+  "Plot": "N/A",
+  "Language": "Catalan",
+  "Country": "Spain",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzRkMmM1YjctYzllZS00OWM4LTgwNWMtYTNiNzk3YTE4ZmNlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "5.4",
+  "imdbVotes": "21",
+  "imdbID": "tt1757917",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+},{
+  "_id": {
+    "$oid": "5ff103f6c0befa42c6fe88bc"
+  },
+  "Title": "Titanic",
+  "Year": "1997",
+  "Rated": "PG-13",
+  "Released": "19 Dec 1997",
+  "Runtime": "194 min",
+  "Genre": "Drama, Romance",
+  "Director": "James Cameron",
+  "Writer": "James Cameron",
+  "Actors": "Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates",
+  "Plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+  "Language": "English, Swedish, Italian, French",
+  "Country": "USA, Mexico, Australia, Canada",
+  "Awards": "Won 11 Oscars. Another 112 wins & 83 nominations.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "Metascore": "75",
+  "imdbRating": "7.8",
+  "imdbVotes": "1,036,570",
+  "imdbID": "tt0120338",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$659,363,944",
+  "Production": "20th Century Fox, Lightstorm Entertainment, Paramount Pictures",
+  "Website": "N/A",
+  "Response": "True"
+},{
+  "_id": {
+    "$oid": "5ff1b62b62cf43680e2b8411"
+  },
+  "Title": "The Notebook",
+  "Year": "2004",
+  "Rated": "PG-13",
+  "Released": "25 Jun 2004",
+  "Runtime": "123 min",
+  "Genre": "Drama, Romance",
+  "Director": "Nick Cassavetes",
+  "Writer": "Jeremy Leven (screenplay), Jan Sardi (adaptation), Nicholas Sparks (novel)",
+  "Actors": "Tim Ivey, Gena Rowlands, Starletta DuPois, James Garner",
+  "Plot": "A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.",
+  "Language": "English",
+  "Country": "USA",
+  "Awards": "12 wins & 10 nominations.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTk3OTM5Njg5M15BMl5BanBnXkFtZTYwMzA0ODI3._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "53%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "53/100"
+    }
+  ],
+  "Metascore": "53",
+  "imdbRating": "7.8",
+  "imdbVotes": "515,663",
+  "imdbID": "tt0332280",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$81,001,787",
+  "Production": "New Line Cinema, Avery Pix",
+  "Website": "N/A",
+  "Response": "True"
+},{
+  "_id": {
+    "$oid": "5ff1e21c4cbcfbd70557d84e"
+  },
+  "Title": "The Blue Lagoon",
+  "Year": "1980",
+  "Rated": "R",
+  "Released": "02 Jul 1980",
+  "Runtime": "104 min",
+  "Genre": "Adventure, Drama, Romance",
+  "Director": "Randal Kleiser",
+  "Writer": "Henry De Vere Stacpoole (based on the novel by), Douglas Day Stewart (screenplay by)",
+  "Actors": "Brooke Shields, Christopher Atkins, Leo McKern, William Daniels",
+  "Plot": "In the Victorian period, two children are shipwrecked on a tropical island in the South Pacific. With no adults to guide them, the two make a simple life together, unaware that sexual maturity will eventually intervene.",
+  "Language": "English",
+  "Country": "USA",
+  "Awards": "Nominated for 1 Oscar. Another 4 wins & 7 nominations.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOWU2ZDIxY2UtNzM5NS00MWUwLTkxN2QtMmI3NDZkNTA2OTYxXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "8%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "31/100"
+    }
+  ],
+  "Metascore": "31",
+  "imdbRating": "5.8",
+  "imdbVotes": "62,654",
+  "imdbID": "tt0080453",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$58,853,106",
+  "Production": "Columbia Pictures",
+  "Website": "N/A",
+  "Response": "True"
+},{
+  "_id": {
+    "$oid": "5ff350873e107dc3a229e536"
+  },
+  "Title": "Titanic",
+  "Year": "1997",
+  "Rated": "PG-13",
+  "Released": "19 Dec 1997",
+  "Runtime": "194 min",
+  "Genre": "Drama, Romance",
+  "Director": "James Cameron",
+  "Writer": "James Cameron",
+  "Actors": "Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates",
+  "Plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+  "Language": "English, Swedish, Italian, French",
+  "Country": "USA, Mexico, Australia, Canada",
+  "Awards": "Won 11 Oscars. Another 112 wins & 83 nominations.",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "75/100"
+    }
+  ],
+  "Metascore": "75",
+  "imdbRating": "7.8",
+  "imdbVotes": "1,036,570",
+  "imdbID": "tt0120338",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$659,363,944",
+  "Production": "20th Century Fox, Lightstorm Entertainment, Paramount Pictures",
+  "Website": "N/A",
+  "Response": "True"
+}]

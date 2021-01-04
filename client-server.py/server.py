@@ -4,10 +4,9 @@ from pprint import PrettyPrinter
 import requests
 import youtube_search
 
-pp = PrettyPrinter()
-apiKey = 'c69e149a'
+apiKey = 'c69e149a'#pentru omdb db
 URL = 'http://www.omdbapi.com/?apikey='+ apiKey
-apikey1 = '2AsKNH2Nfs60mXg0mx59YRmHOPuS1pHl'
+apikey1 = '2AsKNH2Nfs60mXg0mx59YRmHOPuS1pHl'# pentru reviews db
 format = "utf-8"
 
 host = '127.0.0.1'
@@ -26,13 +25,12 @@ mycol = mydb["movies"]
 
 
 def getRating(name):
-    gasit = 0
+    gasit=0
     myquery = {'Title': name}
     mydoc = mycol.find(myquery)
     for x in mydoc:
-        gasit = 1
         return (x['imdbRating'])
-    if (gasit == 0):
+    if (gasit == 0 ):
         params = {
             't': name,
             'type': 'movie'}
@@ -58,7 +56,7 @@ def getRatingByActor( actor):
             allmovie = allmovie + str(actors['imdbRating'])
             allmovie = allmovie + str(" \n")
     if (gasit == 0):
-        return ("Nu s-a putu gasi film")
+        return ("Nu s-a putu gasi film                                           ")
     else:
         return (allmovie)
 
@@ -76,7 +74,7 @@ def getRatingByWord( word):
             allmovie = allmovie + str(titles['imdbRating'])
             allmovie = allmovie + str(" \n")
     if (gasit == 0):
-        return ("Nu s-a putu gasi film")
+        return ("Nu s-a putu gasi film                                            ")
     else:
         return (allmovie)
 
@@ -112,27 +110,28 @@ def start():
     s.listen()
     while True:
         conn, addr = s.accept()
-        message = conn.recv(1024).decode(format)
-        if message =='REVIEW':
-            message1 = conn.recv(1024).decode(format)
-            print(getReview(message1))
-            conn.send((getReview(message1)).encode(format))
-        if message == 'TITLE':
-            message1 = conn.recv(1024).decode(format)
-            conn.send((getRating(message1)).encode(format))
-        if message =='ACTOR':
-            message1 = conn.recv(1024).decode(format)
-            conn.send((getRatingByActor(message1)).encode(format))
-        if message =='WORD':
-            message1 = conn.recv(1024).decode(format)
-            conn.send((getRatingByWord(message1)).encode(format))
-        if message =='TRILER':
-            message1 = conn.recv(1024).decode(format)
-            conn.send((getTriler(message1)).encode(format))
-
+        while True:
+            message = conn.recv(1024).decode(format)
+            if message =='REVIEW':
+                message1 = conn.recv(1024).decode(format)
+                print(getReview(message1))
+                conn.send((getReview(message1)).encode(format))
+            if message == 'TITLE':
+                message1 = conn.recv(1024).decode(format)
+                conn.send((getRating(message1)).encode(format))
+            if message =='ACTOR':
+                message1 = conn.recv(1024).decode(format)
+                conn.send((getRatingByActor(message1)).encode(format))
+            if message =='WORD':
+                message1 = conn.recv(1024).decode(format)
+                conn.send((getRatingByWord(message1)).encode(format))
+            if message =='TRILER':
+                message1 = conn.recv(1024).decode(format)
+                conn.send((getTriler(message1)).encode(format))
 
 
 start()
+
 
 
 
