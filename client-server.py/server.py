@@ -1,6 +1,5 @@
 import pymongo
 import socket
-from pprint import PrettyPrinter
 import requests
 import youtube_search
 
@@ -14,8 +13,7 @@ port = 2727
 # Address is stored as a tuple
 #address = (host, port)
 
-# Create a new socket for
-# the server
+
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.bind((host, port))
 
@@ -56,7 +54,7 @@ def getRatingByActor( actor):
             allmovie = allmovie + str(actors['imdbRating'])
             allmovie = allmovie + str(" \n")
     if (gasit == 0):
-        return ("Nu s-a putu gasi film                                           ")
+        return ("Movie not found                                            ")
     else:
         return (allmovie)
 
@@ -74,7 +72,7 @@ def getRatingByWord( word):
             allmovie = allmovie + str(titles['imdbRating'])
             allmovie = allmovie + str(" \n")
     if (gasit == 0):
-        return ("Nu s-a putu gasi film                                            ")
+        return ("Movie not found                                            ")
     else:
         return (allmovie)
 
@@ -98,12 +96,12 @@ def getReview(name):
             res2 = {'display_title': x["display_title"], 'url': res1['url']}
             moviesReviews = moviesReviews + str(res2['display_title'])
             moviesReviews = moviesReviews + str('\n')
-            #moviesReviews = moviesReviews + str('<a>')
             moviesReviews = moviesReviews + str(res2['url'])
-            #moviesReviews = moviesReviews + str('</a>')
             moviesReviews = moviesReviews + str('\n')
-        print(moviesReviews)
-        return(moviesReviews)
+        if moviesReviews!= " ":
+            return(moviesReviews)
+        else:
+            return ("Review not found")
 
 def start():
     print("Server is working on " + host)
