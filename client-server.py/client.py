@@ -2,11 +2,12 @@ import socket
 import webbrowser
 from tkinter import *
 
+
 host = '127.0.0.1'
 port = 2727
 #address = (host,port)
-
 format="utf-8"
+
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.connect((host, port))
@@ -22,21 +23,21 @@ class GUI:
             self.search.title(" Movie Rating ")
             self.search.config(width = 760, height = 800)
 
-            self.action = Button(self.search, text="More actions", font="Helvetica 14 bold",
+            self.action = Button(self.search, text="More actions", font="Times 14 bold",bg='#C93333',
                                  command=lambda: self.get5(self))
             self.action.place(rely=0.01, relx=0.8)
 
             #create the labels
-            self.label1 = Label(self.search,text= "Type your movie title:",justify = CENTER,font = "Helvetica 14 bold")
+            self.label1 = Label(self.search,text= "Type your movie title:",justify = CENTER,font = "Times 16 bold")
             self.label1.place(relheight=0.10, rely=0.06, relx=0.10)
 
 
-            self.movieName = Entry(self.search,font="Helvetica 14")
+            self.movieName = Entry(self.search,font="Times 14")
             self.movieName.place(relwidth=0.4,relheight=0.10, rely=0.16, relx=0.10)
             self.movieName.focus()
 
             # create a Search Button title
-            self.rating = Button(self.search, text="Search for rating", font="Helvetica 14 bold",
+            self.rating = Button(self.search, text="Search for rating", font="Times 14 bold",bg='#C93333',
                                  command=lambda: self.get1(self.movieName.get()))
             self.rating.place(rely=0.28, relx=0.10)
 
@@ -47,25 +48,25 @@ class GUI:
 
 
 
-            self.label2 = Label(self.search, text="Search by actor:", justify=CENTER,font="Helvetica 14 bold")
+            self.label2 = Label(self.search, text="Search by actor:", justify=CENTER,font="Times 16 bold")
             self.label2.place(relheight=0.16, rely=0.33, relx=0.10)
-            self.actor = Entry(self.search,font="Helvetica 14")
+            self.actor = Entry(self.search,font="Times 14")
             self.actor.place(relwidth=0.4,relheight=0.10, rely=0.46, relx=0.10)
             self.actor.focus()
 
             # create a Search Button actor name
-            self.rating_actor = Button(self.search,text="Search for rating", font="Helvetica 14 bold",
+            self.rating_actor = Button(self.search,text="Search for rating", font="Times 14 bold",bg='#C93333',
                                        command=lambda: self.get2(self.actor.get()))
             self.rating_actor.place(rely=0.58, relx=0.10)
 
 
-            self.label3=Label(self.search, text="Search by a part of the movie title:", justify=CENTER,font="Helvetica 14 bold")
+            self.label3=Label(self.search, text="Search by a part of the movie title:", justify=CENTER,font="Times 16 bold")
             self.label3.place(relheight=0.16, rely=0.63, relx=0.10)
-            self.title = Entry(self.search, font="Helvetica 14")
+            self.title = Entry(self.search, font="Times 14")
             self.title.place(relwidth=0.4, relheight=0.10, rely=0.76, relx=0.10)
             self.title.focus()
             # create a Search Button word
-            self.rating_title = Button(self.search, text="Search for rating", font="Helvetica 14 bold",
+            self.rating_title = Button(self.search, text="Search for rating", font="Times 14 bold",bg='#C93333',
                                        command=lambda: self.get3(self.title.get()))
             self.rating_title.place(rely=0.88, relx=0.10)
             self.search.mainloop()
@@ -76,7 +77,7 @@ class GUI:
             message = movieName
             s.send(message.encode(format))
             self.movieName = s.recv(1024).decode(format)
-            self.label6 = Label(self.search, text=self.movieName, font=('helvetica', 10, 'bold'))
+            self.label6 = Label(self.search, text=self.movieName, font=('times', 12, 'bold'))
             self.label6.place( rely=0.16, relx=0.55)
 
         def get2(self,actor):
@@ -84,7 +85,7 @@ class GUI:
             message = actor
             s.send(message.encode(format))
             self.actor = s.recv(1024).decode(format)
-            self.label4 = Label(self.search, text=self.actor, font=('helvetica', 10, 'bold'))
+            self.label4 = Label(self.search, text=self.actor, font=('times', 12, 'bold'))
             self.label4.place(rely=0.46, relx=0.55)
 
         def get3(self,word):
@@ -92,8 +93,10 @@ class GUI:
             message = word
             s.send(message.encode(format))
             self.word = s.recv(1024).decode(format)
-            self.label5 = Label(self.search, text=self.word, font=('helvetica', 10, 'bold'))
-            self.label5.place(rely=0.76, relx=0.55)
+            self.label5 = Label(self.search, text=self.word, font=('times', 12, 'bold'))
+            self.label5.place( rely=0.76, relx=0.55)
+
+
 
         def get5(self, name):
             self.search.destroy()
@@ -108,26 +111,26 @@ class GUI:
 
             #trailer
             self.label10 = Label(self.Window,
-                             text="Insert a movie title:",justify=CENTER,font="Helvetica 14 bold")
+                             text="Insert a movie title:",justify=CENTER,font="Times 16 bold")
             self.label10.place(relheight=0.10, rely=0.06, relx=0.10)
 
-            self.movietrailer = Entry(self.Window, font="Helvetica 14 bold")
+            self.movietrailer = Entry(self.Window, font="Times 14 bold")
             self.movietrailer.place(relwidth=0.4, relheight=0.10, rely=0.16, relx=0.10)
             self.movietrailer.focus()
 
-            self.trailer = Button(self.Window, text="Search for trailer", font="Helvetica 14 bold",
+            self.trailer = Button(self.Window, text="Search for trailer", font="Times 14 bold",bg='#C93333',
                                  command=lambda: self.get4(self.movietrailer.get()))
             self.trailer.place(rely=0.28, relx=0.10)
 
             # reviews
-            self.label12 = Label(self.Window, text="See reviews:", justify=CENTER, font="Helvetica 14 bold")
+            self.label12 = Label(self.Window, text="See reviews:", justify=CENTER, font="Times 16 bold")
             self.label12.place(relheight=0.16, rely=0.33, relx=0.10)
-            self.moviereview = Entry(self.Window, font="Helvetica 14")
+            self.moviereview = Entry(self.Window, font="Times 14")
             self.moviereview.place(relwidth=0.4, relheight=0.10, rely=0.46, relx=0.10)
             self.moviereview.focus()
 
             # create a Search Button
-            self.review_results = Button(self.Window, text="Search", font="Helvetica 14 bold",
+            self.review_results = Button(self.Window, text="Search", font="Times 14 bold",bg='#C93333',
                                        command=lambda: self.get6(self.moviereview.get()))
             self.review_results.place(rely=0.58, relx=0.10)
 
@@ -143,7 +146,7 @@ class GUI:
             def openweb():
                 webbrowser.open(self.movieName, new=new)
             openweb()
-            self.label4 = Label(self.Window, text=self.movieName, font=('helvetica', 10, 'bold'))
+            self.label4 = Label(self.Window, text=self.movieName, font=('times', 12, 'bold'))
             self.label4.place(rely=0.16, relx=0.55)
 
 
@@ -154,7 +157,7 @@ class GUI:
             self.moviereview= s.recv(4096).decode(format)#datele despre film
             #data = s.recv(4096).decode(format)
             #print(type(data))
-            self.label4 = Label(self.Window, text=self.moviereview, font=('helvetica', 10, 'bold'))
+            self.label4 = Label(self.Window, text=self.moviereview, font=('times', 12, 'bold'))
             self.label4.place(rely=0.65, relx=0.02)
             self.label4.config(cursor="arrow")
 
